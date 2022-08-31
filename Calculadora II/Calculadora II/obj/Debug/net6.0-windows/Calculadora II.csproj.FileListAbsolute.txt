@@ -1,0 +1,36 @@
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.exe
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.deps.json
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.runtimeconfig.json
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.dll
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.pdb
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.csproj.AssemblyReference.cache
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora_II.Form1.resources
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.csproj.GenerateResource.cache
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.GeneratedMSBuildEditorConfig.editorconfig
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.AssemblyInfoInputs.cache
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.AssemblyInfo.cs
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.csproj.CoreCompileInputs.cache
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.dll
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\refint\Calculadora II.dll
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.pdb
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.genruntimeconfig.cache
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\ref\Calculadora II.dll
+F:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora_II.Properties.Resources.resources
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.exe
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.deps.json
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.runtimeconfig.json
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.dll
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\bin\Debug\net6.0-windows\Calculadora II.pdb
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.csproj.AssemblyReference.cache
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora_II.Form1.resources
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora_II.Properties.Resources.resources
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.csproj.GenerateResource.cache
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.AssemblyInfoInputs.cache
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.AssemblyInfo.cs
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.csproj.CoreCompileInputs.cache
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.dll
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\refint\Calculadora II.dll
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.pdb
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\Calculadora II.genruntimeconfig.cache
+D:\Temp\Codigos Windows Form\Calculadora II\Calculadora II\obj\Debug\net6.0-windows\ref\Calculadora II.dll
